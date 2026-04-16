@@ -56,7 +56,6 @@ In this approach for hand detection, firstly we detect hand from image that is a
 
 We have collected images of different signs of different angles  for sign letter A to Z. 
 
- ![fdfScreenshot (227)](https://user-images.githubusercontent.com/99630855/201489564-04b0416d-f976-4946-80d3-01bab6897ce3.png) 
 
 - in this method there are many loop holes like your hand must be ahead of clean soft background and that is in proper lightning condition then only this method will give good accurate results but in real world we dont get good background everywhere and we don’t get good lightning conditions too. 
 
